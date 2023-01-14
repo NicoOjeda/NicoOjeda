@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nicolas:
 
-🔭 I’m currently working on my Profile<br>🌱 I’m currently learning Php and Mysql<br>📫 How to reach me nico_ojeda86@gmail.com
+🔭 I’m currently working on my Profile<br>🌱 I’m currently learning Php and Mysql<br>📫 How to reach me nico_ojeda86@hotmail.com
 
 
 ## 🌐 Socials:
