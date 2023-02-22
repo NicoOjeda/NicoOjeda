@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### <div align="center">Hi 👋, I'm Nicolas, a full-stack  developer 👨‍💻 </div>  
