@@ -4,7 +4,7 @@
 ### <div align="center">Hi 👋, I'm Nicolas, a full-stack  developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on my Profile  
+- 🔭 I’m currently working on my Profile and learning Python
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
